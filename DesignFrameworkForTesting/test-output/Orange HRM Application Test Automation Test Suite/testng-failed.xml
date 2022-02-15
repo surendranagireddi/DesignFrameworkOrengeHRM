@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Orange HRM Application Test Automation Test Suite]">
+  <test thread-count="5" name="Orange App Test Cases(failed)">
+    <classes>
+      <class name="com.pack.testLayer.AddUserTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="addUserTest"/>
+        </methods>
+      </class> <!-- com.pack.testLayer.AddUserTest -->
+    </classes>
+  </test> <!-- Orange App Test Cases(failed) -->
+</suite> <!-- Failed suite [Orange HRM Application Test Automation Test Suite] -->

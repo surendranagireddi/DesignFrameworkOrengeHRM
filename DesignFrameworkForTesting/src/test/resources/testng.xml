@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE suite SYSTEM "https://testing.org/testng-1.0.dtd">
+<suite name="Orange HRM Application Test Automation Test Suite">
+
+<test name ="Orange App Test Cases">
+
+<classes>
+<!-- <class name="com.pack.testLayer.LoginHRMPageTest"> </class>
+ <class name="com.pack.testLayer.DashBoardTest"> </class>  
+  <class name ="com.pack.testLayer.AddUserTest"></class>
+ <class name ="com.pack.testLayer.UserTest"></class> 
+  <class name="com.pack.testLayer.PimPageTest"> </class> 
+ <class name ="com.pack.testLayer.EmployeeList"></class> 
+  <class name ="com.pack.testLayer.RecruitmentPageTest"></class>   --> 
+  <class name ="com.pack.testLayer.AddCandidateTest"></class> 
+  <class name ="com.pack.testLayer.CandidateTest"></class> 
+  <!-- <class name ="com.pack.testLayer.DirectoryTest"></class> 
+ <class name ="com.pack.testLayer.LeavePageTest"></class> 
+   <class name ="com.pack.testLayer.AssignPageTest"></class> 
+ <class name ="com.pack.testLayer.LeaveListTest"></class> 
+ <class name ="com.pack.testLayer.ApplayLeaveTest"></class> 
+  <class name ="com.pack.testLayer.LogoutTest"></class>  -->
+ 
+ 
+
+</classes>
+
+</test>
+
+</suite>
